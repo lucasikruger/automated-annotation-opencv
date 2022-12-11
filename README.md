@@ -16,4 +16,4 @@ The project includes a Jupyter notebook that explains all the important concepts
 You can find the public [google colab here!](https://colab.research.google.com/drive/191A0oC_WlhA27thnDWXthcQNK20XXyhV?usp=sharing)
 
 # Bibliography 
-The tools are based on [this OpenCV tutorial post](https://pip.pypa.io/en/stable/), which is a popular open-source computer vision library.
+The tools are based on [this OpenCV tutorial post](https://pip.pypa.io/en/stable/).
