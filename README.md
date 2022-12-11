@@ -16,4 +16,4 @@ The project includes a Jupyter notebook that explains all the important concepts
 You can find the public [google colab here!](https://colab.research.google.com/drive/191A0oC_WlhA27thnDWXthcQNK20XXyhV?usp=sharing)
 
 # Bibliography 
-The tools are based on [this OpenCV tutorial post](https://pip.pypa.io/en/stable/).
+The tools are based on [this OpenCV tutorial post](https://learnopencv.com/automated-image-annotation-tool-using-opencv-python/).
